@@ -53,8 +53,7 @@ END
 
 ```
 OUTPUT
-<img width="877" height="468" alt="mpmc fact" src="https://github.com/user-attachments/assets/1c89cc0f-a659-440c-b94b-b160068cd2f6" />
-
+<img width="877" height="434" alt="493648950-1c89cc0f-a659-440c-b94b-b160068cd2f6" src="https://github.com/user-attachments/assets/efd0e5e2-e0ac-47dc-ad9c-e26f5b30d6f7" />
 
 ---
 MANUAL CALCULATIONS
